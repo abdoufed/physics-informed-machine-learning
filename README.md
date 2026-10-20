@@ -2,7 +2,7 @@
 
 PINN for a driven two-level (Rabi) system, benchmarked against the closed-form solution.
 
-**`rabi-pinn-ablation-and-inverse.ipynb`**
+**`pinn-rabi-oscilator.ipynb`**
 - Complex-valued ansatz trained on the Schrödinger residual (no solution data),
   with norm-preservation and boundary losses.
 - **Sampling ablation:** identical 434-parameter network, 10,000 epochs, uniform vs.
